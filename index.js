@@ -1,3 +1,5 @@
-console.log("oi")
+let nome = "Bia";
 
-console.log("eita")
+console.log("oi" + nome);
+console.log(`oi ${nome}`)
+
